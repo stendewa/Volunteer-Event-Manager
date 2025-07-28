@@ -1,8 +1,8 @@
-# Volunteer-Event-Manager
+# Charity-Event-Manager
 A platform that connects people who engage in charitable events.
 
 Platform Name: Linkt Hearts  
-Purpose: To help Kenyans discover, support, and attend verified charity events near them and thus build a community around helping our society's members. humans , animals and 
+Purpose: To help Kenyans discover, support, and attend verified charity events near them and thus build a community around helping our society's members. humans , animals and environmental causes,
 MVP Features:
 - User sign-up and roles (Volunteer, Donor, Organizer)
 - Create or discover events
@@ -11,3 +11,5 @@ MVP Features:
 - Donation via M-Changa
 - Event verification levels: Proposed, Unverified, Verified
 - Use event attendance to post about the cause and charity on thier social media
+
+Run of the mill; Tree planting, Charity walks, Orphanage visits and Harambees but with an incenitive to be tax deductable through M-Changa
